@@ -1,0 +1,2 @@
+rootProject.name = "Zipanel TV"
+include ':app'
